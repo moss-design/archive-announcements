@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "announcements": [
+    {
+      "id": "about-this-app",
+      "title": "このアプリについて",
+      "body": "本アプリは、ファンが個人で制作した非公式アプリです。\n\n公式サービス・運営会社・出演者および関係各社とは一切関係ありません。\n\n本アプリは、ユーザー自身が保有するデータを個人で閲覧・管理することを目的としています。\n有料コンテンツやその他の権利を侵害する目的で、コンテンツをSNS等へ公開・再配布するためのアプリではありません。\n\n各コンテンツは、権利者および各サービスの利用規約を尊重し、個人利用の範囲でお楽しみください。",
+      "date": "2026-10-27",
+      "pinned": true,
+      "published": true,
+      "sortOrder": 0,
+      "buttonLabel": null,
+      "buttonUrl": null
+    },
+    {
+      "id": "duo-support-20261027",
+      "title": "Duo対応のお知らせ",
+      "body": "Duoでの画面表示に対応しました。",
+      "date": "2026-10-27",
+      "pinned": false,
+      "published": true,
+      "sortOrder": 10,
+      "buttonLabel": null,
+      "buttonUrl": null
+    },
+    {
+      "id": "release-100",
+      "title": "アプリをリリースしました",
+      "body": "/archiveをリリースしました。\nアプリをお楽しみください。",
+      "date": "2026-10-10",
+      "pinned": false,
+      "published": true,
+      "sortOrder": 20,
+      "buttonLabel": null,
+      "buttonUrl": null
+    }
+  ]
+}
