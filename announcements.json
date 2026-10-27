@@ -15,7 +15,7 @@
     {
       "id": "archive-duo-1-3",
       "title": "Duo対応のお知らせ",
-      "body": "Duoでの画面表示に対応しました。",
+      "body": "Duoでの画面表示に対応しました。\n配信更新QA：同じIDの本文更新です。",
       "date": "2026-10-27",
       "pinned": false,
       "published": true,
@@ -30,9 +30,18 @@
       "date": "2026-10-10",
       "pinned": false,
       "published": true,
-      "sortOrder": 20,
+      "sortOrder": 5,
       "buttonLabel": null,
       "buttonUrl": null
+    },
+    {
+      "id": "qa-remote-20261028",
+      "title": "配信更新QA（一時表示）",
+      "body": "アプリ更新なしの表示確認用です。確認後に削除します。",
+      "date": "2026-10-28",
+      "pinned": false,
+      "published": true,
+      "sortOrder": 1
     }
   ]
 }
